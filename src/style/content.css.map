@@ -1,0 +1,1 @@
+{"version":3,"sources":["content.less"],"names":[],"mappings":"AAIA;EAHC,gBAAA","file":"content.css","sourcesContent":[".dummy-mixin(@value) {\n\tbackground: @value;\n}\n\n.dummy {\n\t.dummy-mixin(#fff);\n}"]}
